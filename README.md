@@ -7,8 +7,9 @@
 ### 📊 Estatísticas do GitHub
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko" /></a> |
 | --- | --- |
-![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake.svg)
+
 ---
+![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake.svg)
 
 ### 🛠️ Linguagens e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
