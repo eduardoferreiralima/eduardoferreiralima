@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, my name is Carlos Eduardo 👋
+🎓 I am a Systems Analysis and Development student  
+🚀 Currently learning **Java**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eduardoferreiralima/eduardoferreiralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
