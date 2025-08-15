@@ -9,7 +9,7 @@
 | --- | --- |
 
 ---
-![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake-neon.svg)
 
 ### 🛠️ Linguagens e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
