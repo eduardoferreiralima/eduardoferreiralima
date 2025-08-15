@@ -1,10 +1,12 @@
 ## Olá, Meu nome é Carlos Eduardo 👋
-🎓 Graduando em Análise e Desenvolvimento de Sistemas
-🚀 Atuamente estudando **Java** e **Python(Django)**
+🎓 Graduando em Análise e Desenvolvimento de Sistemas  
+🚀 Atualmente estudando **Java** e **Python (Django)**  
+
+---
 
 ### 📊 Estatísticas do GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko" /></a> |
+| --- | --- |
 
 ---
 
@@ -13,7 +15,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 
 <!--
