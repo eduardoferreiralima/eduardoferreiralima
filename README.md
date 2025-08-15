@@ -7,7 +7,7 @@
 ### 📊 Estatísticas do GitHub
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko" /></a> |
 | --- | --- |
-
+![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🛠️ Linguagens e Ferramentas
@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **eduardoferreiralima/eduardoferreiralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
