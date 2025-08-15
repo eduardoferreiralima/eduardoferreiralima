@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **eduardoferreiralima/eduardoferreiralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
