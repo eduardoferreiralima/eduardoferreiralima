@@ -1,35 +1,47 @@
-## Olá, Meu nome é Carlos Eduardo 👋
-🎓 Graduando em Análise e Desenvolvimento de Sistemas  
-🚀 Atualmente estudando **Java** e **Python (Django)**  
+# **Olá! Meu nome é Carlos Eduardo** 👋
+
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+* 🔧 Focado em **desenvolvimento backend**
+* 🚀 Estudando **Java + Spring Boot**, APIs REST e mensageria
+* 📍 Evoluindo continuamente através de projetos práticos
 
 ---
 
-### 📊 Estatísticas do GitHub
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko" /></a> |
-| --- | --- |
+## 📊 **Estatísticas do GitHub**
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko" />
+</div>
 
 ---
+
+<div align="center">
+
 ![Snake animation](https://github.com/eduardoferreiralima/eduardoferreiralima/blob/output/github-contribution-grid-snake-dark.svg)
 
-### 🛠️ Linguagens e Ferramentas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
+
+---
+
+# 🛠️ **Tecnologias**
+
+| 🔧 Backend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 🎨 Frontend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ⚙️ Linguagens & Ferramentas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="45px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img width="45px" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img width="45px" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> <img width="45px" title="RabbitMQ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" /> <img width="45px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img width="45px" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> | <img width="45px" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="45px" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="45px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="45px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> | <img width="45px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img width="45px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="45px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="45px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="45px" title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /> <img width="45px" title="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /> |
 
 
+---
 
-<!--
-**eduardoferreiralima/eduardoferreiralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 **Projetos em desenvolvimento**
 
-Here are some ideas to get you started:
+* **API de Controle Financeiro Empresarial** – Spring Boot + PostgreSQL
+* **Sistema de Mensagens com RabbitMQ** – mensageria e filas
+* **API de Controle de Turmas** – backend em Python (FastAPI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📫 **Contato**
+
+📧 **[carlossferreiralima@gmail.com](mailto:carlossferreiralima@gmail.com)**
+🔗 **LinkedIn:** [https://www.linkedin.com/in/carlos-eduardo-15837825b/](https://www.linkedin.com/in/carlos-eduardo-15837825b/)
