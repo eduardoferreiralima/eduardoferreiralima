@@ -8,10 +8,13 @@
 
 ## 📊 **Estatísticas do GitHub**
 
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardoferreiralima&show_icons=true&theme=merko" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoferreiralima&theme=merko" height="150" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardoferreiralima&layout=compact&theme=merko" height="140" alt="Idiomas mais usados" />
+</p>
 
 ---
 
